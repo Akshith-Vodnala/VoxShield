@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.wav
+*.mp3
+*.ogg
+*.flac
+.env
+venv/
+.venv/
+.streamlit/
